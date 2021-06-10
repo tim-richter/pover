@@ -26,7 +26,7 @@ fn main() {
     };
 
     if args.repo != None {
-        repo::repo(read_result);
+        repo::repo(&read_result);
         return;
     }
 
