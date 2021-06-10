@@ -1,4 +1,5 @@
 # pover
+[![GitHub current release](https://img.shields.io/github/v/release/tim-richter/pover?include_prereleases)](https://github.com/tim-richter/pover/releases/latest)
 
 Utility script that makes working with package.json files easier.
 
