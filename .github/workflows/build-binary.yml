@@ -17,7 +17,7 @@ jobs:
             asset_name: pover-linux-amd64
           - os: windows-latest
             artifact_name: pover.exe
-            asset_name: pover-windows-amd64
+            asset_name: pover-windows-amd64.exe
           - os: macos-latest
             artifact_name: pover
             asset_name: pover-macos-amd64
