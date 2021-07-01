@@ -18,6 +18,20 @@ Utility script that makes working with package.json files easier.
   ```bash
   chmod +x /usr/local/bin/pover
   ```
+  
+### Linux
+
+- Download linux binary from releases
+- Move binary to /usr/local/bin
+
+  ```bash
+  sudo mv pover-linux-amd64 /usr/local/bin/pover
+  ```
+- Make executable
+
+  ```bash
+  chmod +x /usr/local/bin/pover
+  ```
 
 ## Usage
 
